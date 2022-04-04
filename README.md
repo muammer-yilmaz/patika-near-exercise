@@ -1,0 +1,1 @@
+This repo is for patika.dev near developer course practices
